@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\celo\\ClimateGuardiansDAO"
+		},
+		{
+			"path": "..\\..\\React\\Next-landing\\V6"
+		},
+		{
+			"path": "..\\..\\Unity"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Unity"
+	}
+}
